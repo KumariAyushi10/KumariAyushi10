@@ -1,21 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Hi%20There,%20I'm%20Kumari%20Ayushi%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20Data%20into%20Decisions%20💡&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Kumari%20Ayushi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20Data%20into%20Decisions%20💡&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;B.Tech+CSE+%40+Galgotias+University;Turning+Raw+Data+into+Real+Insights" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/kumariayushi)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumariayushi8383@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;B.Tech+CSE+%40+Galgotias+University;Turning+Raw+Data+into+Real+Insights" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-## 💫 About Me
-
 <img align="right" alt="Data Analytics" width="320" src="https://raw.githubusercontent.com/mishrashutosh07/mishrashutosh07/main/assets/coding.gif" />
+
+## 💫 About Me
 
 ```yaml
 name: Kumari Ayushi
@@ -29,14 +24,15 @@ mindset: Motivated learner exploring opportunities in IT & Analytics
 - 📊 Passionate about turning **raw data into actionable business insights**
 - 🌱 Growing through **academic projects & real-world case studies**
 - 🎯 Goal: Land a role where data meets decision-making
-- 🤝 Open to **internships, collaborations, and data-driven projects**
 - ⚡ Fun fact: I enjoy transforming messy spreadsheets into clean, powerful dashboards
 
 <br clear="right"/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%" width="100%"/>
+
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🎓 Education
 **B.Tech, Computer Science & Engineering**
@@ -44,7 +40,7 @@ Galgotias University, Greater Noida
 *Ongoing*
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🎯 Focus Areas
 `Data Analysis` · `Business Insights`
@@ -55,30 +51,7 @@ Galgotias University, Greater Noida
 </tr>
 </table>
 
-<br/>
-
-## 🧠 Skills at a Glance
-
-<div align="center">
-
-**Python**
-![](https://progress-bar.xyz/80?title=Proficiency&width=500&color=a970ff&suffix=%25)
-
-**SQL**
-![](https://progress-bar.xyz/75?title=Proficiency&width=500&color=a970ff&suffix=%25)
-
-**Power BI**
-![](https://progress-bar.xyz/78?title=Proficiency&width=500&color=a970ff&suffix=%25)
-
-**Excel**
-![](https://progress-bar.xyz/85?title=Proficiency&width=500&color=a970ff&suffix=%25)
-
-**Data Visualization**
-![](https://progress-bar.xyz/72?title=Proficiency&width=500&color=a970ff&suffix=%25)
-
-</div>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -108,23 +81,7 @@ Galgotias University, Greater Noida
 
 </div>
 
-<br/>
-
-## 📌 Featured Projects
-
-<div align="center">
-
-| 📁 Project | 📝 Description | 🛠️ Tools Used |
-|---|---|---|
-| **Sales Insights Dashboard** | Interactive dashboard analyzing regional sales trends & KPIs | Power BI, SQL |
-| **Customer Segmentation Analysis** | Clustering customers based on purchase behavior | Python, Pandas, scikit-learn |
-| **Data Cleaning Toolkit** | Automated scripts to clean and structure messy datasets | Python, NumPy, Pandas |
-
-*(Replace these with links to your actual repositories as you build them out!)*
-
-</div>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -141,23 +98,20 @@ Galgotias University, Greater Noida
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%" width="100%"/>
 
-## 🐍 Contribution Snake
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KumariAyushi10/KumariAyushi10/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-<sub>✨ To activate this animated snake, add the free <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to this repo — it auto-generates on every push.</sub>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/kumariayushi)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumariayushi8383@gmail.com)
 
 </div>
 
-<br/>
-
 <div align="center">
 
-### 💭 *"Data will talk to you if you're willing to listen."*
+> *"Data will talk to you if you're willing to listen."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
