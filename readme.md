@@ -10,8 +10,3 @@ I am Kumari Ayushi, pursuing a B.Tech in Computer Science and Engineering at Gal
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=KumariAyushi10&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KumariAyushi10&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KumariAyushi10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
