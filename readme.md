@@ -87,15 +87,9 @@ Galgotias University, Greater Noida
 
 <div align="center">
 
-<!--<img height="165" src="https://github-readme-stats.vercel.app/api?username=KumariAyushi10&show_icons=true&theme=midnight-purple&hide_border=false&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KumariAyushi10&theme=midnight-purple&hide_border=false"/>-->
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumariAyushi10&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KumariAyushi10&show_icons=true&theme=midnight-purple&hide_border=false&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KumariAyushi10&theme=midnight-purple&hide_border=false"/>
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KumariAyushi10&theme=react-dark&hide_border=true" width="90%"/>
-
 </div>
 
 ## 🌐 Connect With Me
