@@ -84,9 +84,7 @@ Galgotias University, Greater Noida
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<!--<img height="165" src="https://github-readme-stats.vercel.app/api?username=KumariAyushi10&show_icons=true&theme=midnight-purple&hide_border=false&count_private=true&include_all_commits=true"/>-->
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KumariAyushi10&theme=midnight-purple&hide_border=false"/>
+<img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=KumariAyushi10&theme=midnight-purple&hide_border=false"/>
 </div>
 
 ## 🌐 Connect With Me
