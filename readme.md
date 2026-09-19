@@ -13,11 +13,11 @@
 ## 💫 About Me
 
 ```yaml
-name: Kumari Ayushi
-role: B.Tech CSE Student @ Galgotias University, Greater Noida
-focus: Data Analysis • Business Insights • Tech-Driven Solutions
-learning: Python, Excel, SQL, Power BI, Data Visualization
-mindset: Motivated learner exploring opportunities in IT & Analytics
+Name: Kumari Ayushi
+Role: B.Tech CSE Student @ Galgotias University, Greater Noida
+Focus: Data Analysis • Business Insights • Tech-Driven Solutions
+Learning: Python, Excel, SQL, Power BI, Data Visualization
+Mindset: Motivated learner exploring opportunities in IT & Analytics
 ```
 
 - 🔭 Currently sharpening my skills in **Python, SQL & Power BI**
@@ -97,8 +97,6 @@ Galgotias University, Greater Noida
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KumariAyushi10&theme=react-dark&hide_border=true" width="90%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%" width="100%"/>
 
 ## 🌐 Connect With Me
 
